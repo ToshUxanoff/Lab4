@@ -4,8 +4,8 @@
 
 TVector::TVector()
 {
-	X = 5;
-	Y = 5;
+		X = 5;
+		Y = 5;
 }
 TVector::TVector(float x_in, float y_in)
 {
